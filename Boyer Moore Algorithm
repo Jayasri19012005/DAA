@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define CHARACTERS 256
+#define CHARACTERS 20
 
 void badCharactertable(string s, int n,int badmatch[CHARACTERS]) {
 
